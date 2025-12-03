@@ -1,3 +1,19 @@
 #Intellij folders
 
+# Java
+*.class
+
+# Build directories
+out/
+bin/
+build/
+target/
+
+# IntelliJ
+*.iml
 .idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
